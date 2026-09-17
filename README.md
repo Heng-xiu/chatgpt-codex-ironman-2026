@@ -31,7 +31,7 @@
 
 文章發布後，會將當日 iThome 文章連結補充到下表；目前可先從各日目錄查看草稿與實作內容。
 
-| 日期 | 文章 | 摘要 |
+| 日期 | 文章標題 | 摘要 |
 | --- | --- | --- |
 | Day01 | [會用 ChatGPT，不等於會帶 AI：我為什麼開始用 Codex 打造一人 AI 團隊](https://ithelp.ithome.com.tw/articles/10411050) | 建立系列問題與學習地圖 |
 | Day02 | [我已經會用 ChatGPT 聊天，為什麼還需要認識 ChatGPT Work 與 Codex？](https://ithelp.ithome.com.tw/articles/10412151) | 如果你已經會使用 ChatGPT，下一步可能不是學更多 Prompt，而是改變你把工作交給 AI 的方式。一般的 ChatGPT 對話，多半停留在「提出問題 → 得到答案」；ChatGPT Work 與 Codex 則進一步讓 AI 接手一個具有明確成果的任務，自己拆解步驟、使用工具、處理檔案、搜尋資料，最後交付可以被人審查的成果。這篇文章將從 ChatGPT Chat、ChatGPT Work 與 Codex 的差異開始，帶你完成 ChatGPT Desktop 與 Work 的基本設定，並進一步理解本地 Work 與雲端 Work 在資料來源、權限與執行環境上的不同。真正重要的改變，不只是 AI 變得更聰明，而是我們開始從「問 AI 問題」，走向「把工作委派給 AI」。 |
