@@ -35,7 +35,7 @@
 | --- | --- | --- |
 | Day01 | [會用 ChatGPT，不等於會帶 AI：我為什麼開始用 Codex 打造一人 AI 團隊](https://ithelp.ithome.com.tw/articles/10411050) | 建立系列問題與學習地圖 |
 | Day02 | [我已經會用 ChatGPT 聊天，為什麼還需要認識 ChatGPT Work 與 Codex？](https://ithelp.ithome.com.tw/articles/10412151) | 如果你已經會使用 ChatGPT，下一步可能不是學更多 Prompt，而是改變你把工作交給 AI 的方式。一般的 ChatGPT 對話，多半停留在「提出問題 → 得到答案」；ChatGPT Work 與 Codex 則進一步讓 AI 接手一個具有明確成果的任務，自己拆解步驟、使用工具、處理檔案、搜尋資料，最後交付可以被人審查的成果。這篇文章將從 ChatGPT Chat、ChatGPT Work 與 Codex 的差異開始，帶你完成 ChatGPT Desktop 與 Work 的基本設定，並進一步理解本地 Work 與雲端 Work 在資料來源、權限與執行環境上的不同。真正重要的改變，不只是 AI 變得更聰明，而是我們開始從「問 AI 問題」，走向「把工作委派給 AI」。 |
-| Day03 | 待補 | [Day03](Day03/README.md) |
+| Day03 | [從聊天到專案：用 ChatGPT Work 接手整個工作資料夾](https://ithelp.ithome.com.tw/articles/10412619) | 這篇文章的核心概念，就是把 AI 從每次都要重頭講起的一問一答，升級成能直接接管你電腦資料夾的專案隊友。作者用整理 7 張發票當例子，示範只要在 ChatGPT Desktop 裡開好專案並選定資料夾，AI 就能在同一個工作空間裡隨時讀檔與產出。你只要給它一份清楚的工作清單，它兩分多鐘就能自己翻完發票整理成 Excel，連模糊難認的細節都會先標記出來等你確認。讀者能帶走的一句話觀念是：別再一張張傳檔重複交代背景，先替任務開好專案與資料夾，AI 才能真正幫你把整套流程跑完。 |
 | Day04 | 待補 | [Day04](Day04/README.md) |
 | Day05 | 待補 | [Day05](Day05/README.md) |
 | Day06 | 待補 | [Day06](Day06/README.md) |
