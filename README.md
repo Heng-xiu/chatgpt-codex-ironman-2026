@@ -12,7 +12,6 @@
 - 將 AI 輔助開發的方法整理成可重現的步驟。
 - 透過每日文章與程式碼，建立可持續累積的實作筆記。
 
-本專案結構參考 [2024 Agentic System Lab 鐵人賽專案](https://github.com/Heng-xiu/agentic-system-lab-2024ironman)。
 
 ## 比賽系列連結
 
@@ -85,6 +84,12 @@ cd chatgpt-codex-ironman-2026
 
 如果這個專案對你有幫助，歡迎在 GitHub 點選 Star ⭐，也歡迎提出 Issue 或 Pull Request 分享想法。
 
+[![Star History Chart](https://api.star-history.com/svg?repos=Heng-xiu/agentic-system-lab-2024ironman&type=Date)](https://star-history.com/#Heng-xiu/agentic-system-lab-2024ironman&Date)
+
 ## 授權
 
 本專案採用 MIT License；詳見 [LICENSE](LICENSE)。
+
+---
+
+如果您覺得這個專案有幫助,請給我們一個星星 ⭐️ 並分享給您的朋友!
