@@ -12,19 +12,29 @@
 - 將 AI 輔助開發的方法整理成可重現的步驟。
 - 透過每日文章與程式碼，建立可持續累積的實作筆記。
 
+## 給 Agents 的 Prompt
+
+以下 prompt 可以直接複製給 Agents：
+
+```text
+你正在協助維護 ChatGPT Codex 鐵人賽 2026 repository。
+請遵守根目錄 AGENTS.md：每日內容放在對應的 DayXX/ 目錄，先理解現有結構再修改；
+保持繁體中文說明、補充必要的執行方式，不提交 API 金鑰或個人敏感資料，完成後檢查 git diff 與 git status，並清楚摘要修改內容與驗證結果。
+```
+
 
 ## 比賽系列連結
 
-- [iThome 鐵人賽系列文章](https://ithelp.ithome.com.tw/users/20161074/ironman/9830)
+- [2026 年，會用 AI 不等於會帶 AI：用 ChatGPT × Codex 從零開始實現一人 AI 團隊 系列](https://ithelp.ithome.com.tw/users/20161074/ironman/9830)
 
 ## 每日文章連結
 
 文章發布後，會將當日 iThome 文章連結補充到下表；目前可先從各日目錄查看草稿與實作內容。
 
-| 日期 | 文章 | 專案內容 |
+| 日期 | 文章 | 摘要 |
 | --- | --- | --- |
-| Day01 | 待補 | [Day01](Day01/README.md) |
-| Day02 | 待補 | [Day02](Day02/README.md) |
+| Day01 | [會用 ChatGPT，不等於會帶 AI：我為什麼開始用 Codex 打造一人 AI 團隊](https://ithelp.ithome.com.tw/articles/10411050) | 建立系列問題與學習地圖 |
+| Day02 | [我已經會用 ChatGPT 聊天，為什麼還需要認識 ChatGPT Work 與 Codex？](https://ithelp.ithome.com.tw/articles/10412151) | 如果你已經會使用 ChatGPT，下一步可能不是學更多 Prompt，而是改變你把工作交給 AI 的方式。一般的 ChatGPT 對話，多半停留在「提出問題 → 得到答案」；ChatGPT Work 與 Codex 則進一步讓 AI 接手一個具有明確成果的任務，自己拆解步驟、使用工具、處理檔案、搜尋資料，最後交付可以被人審查的成果。這篇文章將從 ChatGPT Chat、ChatGPT Work 與 Codex 的差異開始，帶你完成 ChatGPT Desktop 與 Work 的基本設定，並進一步理解本地 Work 與雲端 Work 在資料來源、權限與執行環境上的不同。真正重要的改變，不只是 AI 變得更聰明，而是我們開始從「問 AI 問題」，走向「把工作委派給 AI」。 |
 | Day03 | 待補 | [Day03](Day03/README.md) |
 | Day04 | 待補 | [Day04](Day04/README.md) |
 | Day05 | 待補 | [Day05](Day05/README.md) |
@@ -72,19 +82,12 @@ cd chatgpt-codex-ironman-2026
 
 請先閱讀對應 `DayXX/README.md` 的環境需求與執行方式。若需要環境變數，請參考 `.env.example`，不要把真實金鑰提交到 Git。
 
-## 給 Agents 的 Prompt
-
-以下 prompt 可以直接複製給 Agents：
-
-```text
-你正在協助維護 ChatGPT Codex 鐵人賽 2026 repository。請遵守根目錄 AGENTS.md：每日內容放在對應的 DayXX/ 目錄，先理解現有結構再修改；保持繁體中文說明、補充必要的執行方式，不提交 API 金鑰或個人敏感資料，完成後檢查 git diff 與 git status，並清楚摘要修改內容與驗證結果。
-```
-
 ## Star 趨勢
 
 如果這個專案對你有幫助，歡迎在 GitHub 點選 Star ⭐，也歡迎提出 Issue 或 Pull Request 分享想法。
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Heng-xiu/agentic-system-lab-2024ironman&type=Date)](https://star-history.com/#Heng-xiu/agentic-system-lab-2024ironman&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Heng-xiu/chatgpt-codex-ironman-2026&type=Date)](https://star-history.com/#Heng-xiu/chatgpt-codex-ironman-2026&Date)
+
 
 ## 授權
 
