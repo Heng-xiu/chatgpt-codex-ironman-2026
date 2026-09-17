@@ -1,13 +1,39 @@
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# Environment variables and secrets
 .env
 .env.*
 !.env.example
+
+# Python
 __pycache__/
 *.py[cod]
 .venv/
 venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+coverage.xml
+
+# Node.js
 node_modules/
 dist/
 build/
+coverage/
+
+# Jupyter
 .ipynb_checkpoints/
+
+# Logs and temporary files
 *.log
+*.tmp
+*.swp
+*.swo
+
+# Build and local tool output
+.cache/
+.tmp/
